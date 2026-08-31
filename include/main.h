@@ -1,3 +1,10 @@
+/**
+@file
+	main.h
+@brief
+	Main function template.
+*/
+
 #ifndef MYTEMPLATE_MAIN_H
 #define MYTEMPLATE_MAIN_H
 

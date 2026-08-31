@@ -1,3 +1,10 @@
+/**
+@file
+	main.cpp
+@brief
+	Main function template.
+*/
+
 // MYTemplate
 #include "main.h"
 
