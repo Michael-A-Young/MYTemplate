@@ -54,5 +54,9 @@ FixNamespaceComments: true
 # Comments
 ReflowComments: false
 
+# Trailing commas
+EnumTrailingComma: Remove
+InsertTrailingCommas: None
+
 # Miscellaneous
 Cpp11BracedListStyle: true
